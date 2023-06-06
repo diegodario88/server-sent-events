@@ -14,15 +14,20 @@ https://github.com/diegodario88/server-sent-events/assets/25825145/80e8f658-0ccb
 
 - **Scalability and Performance:** Discover techniques for optimizing scalability and performance. Learn how to efficiently manage multiple clients and minimize server resource usage.
 
-- **Error Handling and Resilience:** Learn to handle errors and failures gracefully in SSE-based applications. The repository covers various scenarios and provides robust error handling mechanisms.
+## Installation
 
-- **Comprehensive Documentation:** Detailed documentation is provided to guide you through SSE concepts, implementation steps, and usage scenarios. The documentation includes clear explanations, code samples, and helpful tips.
+```bash
+$ npm install
+```
 
-## Getting Started
+## Running the app
 
-1. Clone the repository: `git clone https://github.com/your-username/Server-Sent-Events.git`
+```bash
+# watch mode
+$ npm run start:dev
+```
 
-2. Follow the documentation in the repository to integrate SSE into your NestJS application.
+> Access `http://localhost:3000` to see the client
 
 ## Contributing
 
